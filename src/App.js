@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Header from './components/Header/Header';
 import { Route, Routes } from 'react-router-dom';
@@ -21,7 +20,6 @@ function App() {
         <Route path='/about' element={<About />}></Route>
         <Route path='*' element={<NotFound />}></Route>
       </Routes>
-      <img src={logo} alt="" />
     </div>
   );
 }

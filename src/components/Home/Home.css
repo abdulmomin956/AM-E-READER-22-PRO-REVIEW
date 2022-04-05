@@ -1,0 +1,27 @@
+.main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+}
+
+.main img {
+    width: 100%;
+    margin-left: 1rem;
+}
+
+.text-part {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.brand {
+    color: blueviolet;
+}
+
+.text-part h1 {
+    font-size: 3rem;
+}
