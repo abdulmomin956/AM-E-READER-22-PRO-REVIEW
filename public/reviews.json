@@ -1,37 +1,37 @@
 [
     {
-        "name": "Salma",
-        "text": "Very good product",
+        "name": "Salma Khatun",
+        "text": "Very good product. I will recommend every student to buy it.",
         "rating": 5.0,
         "id": 1
     },
     {
-        "name": "Momin",
-        "text": "Very good product",
+        "name": "Mominul Islam",
+        "text": "Useful and affortable for us. Hopely it will develop more.",
         "rating": 4.0,
         "id": 2
     },
     {
-        "name": "Emon",
-        "text": "Very good product",
+        "name": "Emon Sheikh",
+        "text": "Bangladesher top ebook reader. Man o valo",
         "rating": 4.5,
         "id": 3
     },
     {
-        "name": "Hasan",
-        "text": "Very good product",
+        "name": "Hasan Miah",
+        "text": "Pdf support kore na. Khoroch besi",
         "rating": 2.0,
         "id": 4
     },
     {
         "name": "Begum Rokeya",
-        "text": "Very good product",
+        "text": "Wow I dreamt about the reader. Finally got it!! Thank u AM",
         "rating": 5.0,
         "id": 5
     },
     {
-        "name": "Kusuli",
-        "text": "Very good product",
+        "name": "Kusuli Begum",
+        "text": "Sobai e reader kinben ar sobaike kinte bolben",
         "rating": 5.0,
         "id": 6
     }

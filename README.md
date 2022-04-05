@@ -1,9 +1,9 @@
 #   AM E-READER 22 PRO REVIEW
 
-[NETLY WEBSITE](netlify.com)
+[NETLIFY WEBSITE](https://am-reader.netlify.app)
 
-* First point
-* Second Point
-* Third point
-* 4 point
+* I have used react router for first time.
+* I have used a chart api.
+* I have used a custom hook in the project.
+* I'm successful to make a SPA by the project.
 
