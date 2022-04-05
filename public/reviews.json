@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Salma",
+        "text": "Very good product",
+        "rating": 5.0,
+        "id": 1
+    },
+    {
+        "name": "Momin",
+        "text": "Very good product",
+        "rating": 4.0,
+        "id": 2
+    },
+    {
+        "name": "Emon",
+        "text": "Very good product",
+        "rating": 4.5,
+        "id": 3
+    },
+    {
+        "name": "Hasan",
+        "text": "Very good product",
+        "rating": 2.0,
+        "id": 4
+    },
+    {
+        "name": "Begum Rokeya",
+        "text": "Very good product",
+        "rating": 5.0,
+        "id": 5
+    },
+    {
+        "name": "Kusuli",
+        "text": "Very good product",
+        "rating": 5.0,
+        "id": 6
+    }
+]

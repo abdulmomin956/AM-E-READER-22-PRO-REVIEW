@@ -1,11 +1,11 @@
 import { useEffect, useState } from "react";
-const useChart = () => {
+const useReviews = () => {
     const [data, setData] = useState([]);
     useEffect(() => {
-        fetch('data.json')
+        fetch('reviews.json')
             .then(res => res.json())
             .then(data => setData(data))
     }, [])
     return [data, setData]
 }
-export default useChart;
+export default useReviews;

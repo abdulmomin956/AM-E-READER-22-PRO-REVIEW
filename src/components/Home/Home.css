@@ -1,4 +1,4 @@
-.main {
+.main-part {
     display: grid;
     grid-template-columns: 1fr 1fr;
     width: 90%;
@@ -24,4 +24,23 @@
 
 .text-part h1 {
     font-size: 3rem;
+}
+
+.review-part {
+    text-align: center;
+}
+
+.review-part button {
+    margin-top: 1rem;
+    padding: 10px 15px;
+    background-color: blueviolet;
+    margin-bottom: 1rem;
+}
+
+.review-part button a {
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: white;
+
 }

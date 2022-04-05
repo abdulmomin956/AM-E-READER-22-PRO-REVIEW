@@ -1,0 +1,19 @@
+.review {
+    border: 1px solid black;
+    width: 50%;
+    border-radius: 15px;
+    padding: 1rem;
+    margin: auto;
+}
+
+.review-time {
+    display: block;
+    font-size: .8rem;
+    color: gray;
+    margin-left: auto;
+}
+
+.review p {
+    display: flex;
+
+}
